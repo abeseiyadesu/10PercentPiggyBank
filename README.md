@@ -26,7 +26,7 @@ kotlin / Android Studio / Jetpack Compose / Room
 ### **データ保存にDataStore**
 最初はシンプルなアプリを目指していましたが、作成していく中で、
 ユーザーがアプリを閉じてもデータが保存できるように、DataStoreを追加しました。
-Room も考えましたが、調べると単純な Key-Value 形式の保存がこのアプルに適していると判断し、DataStoreを選びました。
+Room も考えましたが、調べると単純な Key-Value 形式の保存がこのアプリに適していると判断し、DataStoreを選びました。
 
 
 ## 苦労した点
@@ -35,9 +35,8 @@ Room も考えましたが、調べると単純な Key-Value 形式の保存が�
 
 
 ### **学んだこと**
-JetpackComposeの基本的な UI実装
+Jetpack Composeの基本的な UI実装
 DataStore を用いたデータ保存
-Kotlin の状態管理
 
 
 ![10%PiggyBank](https://github.com/user-attachments/assets/daa4b65f-d83c-4b6b-ae61-f4fc27785ed1)
