@@ -1,5 +1,5 @@
 # 一割貯金箱
-「Compose を用いた Android アプリ開発の基礎」のユニット６の学習内容を主に使用しました。
+ [「Compose を用いた Android アプリ開発の基礎」](https://developer.android.com/courses/android-basics-compose/course?hl=ja)のユニット６の学習内容を主に使用しました。
 <br>  
 
 ## アプリ説明
